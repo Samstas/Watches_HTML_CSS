@@ -76,6 +76,10 @@ body {
     text-decoration: none;
 }
 
+.buy-link:hover {
+    background: #161515e8;;
+}
+
 .price {
     padding: 13px 27px 31px 28px;
     font-weight: 300;
